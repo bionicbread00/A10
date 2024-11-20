@@ -1,0 +1,40 @@
+html{
+    background-color: lightgrey;
+}
+section {
+    text-align: center;
+    padding: 60px;
+    background-color: #fff;
+    border-radius: 10px;
+    max-width: 550px;
+    margin: 20px auto;
+}
+
+section p {
+    font-size: 5rem;
+    color: saddlebrown;
+    margin-top: 10px;
+    font-style: italic;
+}
+
+section img {
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+    border-radius: 30px;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+    }
+footer {
+    background-color: saddlebrown;
+    clear: both;
+}
+footer p {
+    font-size: 1.5rem;
+    color: white;
+    border-radius: 10px;
+    margin-top: 140px;
+    text-align: center;
+    padding: 1em 0;
+}
+
+
